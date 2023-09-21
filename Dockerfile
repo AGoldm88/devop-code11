@@ -2,7 +2,7 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "ike" 
-COPY webapp/target/devops7.war /usr/local/tomcat/webapps
+MAINTAINER "golda" 
+COPY webapp/target/devops6.war /usr/local/tomcat/webapps
 #COPY webapp/welcome.war /usr/local/tomcat/webapps
 #docker file...
